@@ -29,10 +29,14 @@ https://youtu.be/uJne7uuiEUM
 
 ## Team members: -
 Jay Jhaveri: https://github.com/JayJhaveri1906
+
 Abhay Gupta: https://github.com/abhay8463
+
 Prem Chhabria: https://github.com/premchhabria
+
 Sahil Lotya: https://github.com/sahillotya
-Mohit Govekar: TBD
+
+Mohit Govekar: https://github.com/govekarmohit
 
 
 
