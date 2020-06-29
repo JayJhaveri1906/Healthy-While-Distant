@@ -1,4 +1,4 @@
-# Meditation and Yoga Flutter
+# Healthy While Distant
 ![](images/medityogaapp.JPG)
 
 ## Application
