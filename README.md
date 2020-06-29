@@ -1,8 +1,11 @@
 # Healthy While Distant
-![](images/Social Distancing (2).png)
+![](images/SD.png)
 
 ## Application
-<img src="https://github.com/OsamaxD1/Meditation_Yoga_Flutter/blob/master/images/appgif.gif" height="450" width="250">
+### Social Distancing: -
+![](images/socialDistancing.gif)
+### Yoga: -
+![](images/Yoga.gif)
 
 # Getting started
 ```
