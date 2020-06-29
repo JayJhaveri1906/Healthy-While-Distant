@@ -1,5 +1,5 @@
 # Healthy While Distant
-![](images/medityogaapp.JPG)
+![](images/Social Distancing (2).png)
 
 ## Application
 <img src="https://github.com/OsamaxD1/Meditation_Yoga_Flutter/blob/master/images/appgif.gif" height="450" width="250">
