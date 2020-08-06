@@ -22,7 +22,7 @@ Our motivation for this app was the current Covid-19 pandemic going on in the wo
 1) Clone/ download the repo
 2) Open the project with android studio
 3) Run pub get on pubspec.yaml file i.e. `flutter pub get`
-4) Click Run
+4) Click run
 
 ## Youtube Link: -
 https://youtu.be/uJne7uuiEUM
